@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-aurelie/static/css/main.2222978a.css",
+    "main.js": "/portfolio-aurelie/static/js/main.9da06249.js",
+    "static/media/sports.jpg": "/portfolio-aurelie/static/media/sports.705ec5d2f1588e60ed1a.jpg",
+    "static/media/Hexashop.jpg": "/portfolio-aurelie/static/media/Hexashop.14f071bd5ddd7aa0484a.jpg",
+    "static/media/Projet 1_site beauté.jpg": "/portfolio-aurelie/static/media/Projet 1_site beauté.a10f44a8dac8c0fa5426.jpg",
+    "static/media/photo3.jpg": "/portfolio-aurelie/static/media/photo3.c0bc2dfe73b16ca5a6f2.jpg",
+    "index.html": "/portfolio-aurelie/index.html",
+    "main.2222978a.css.map": "/portfolio-aurelie/static/css/main.2222978a.css.map",
+    "main.9da06249.js.map": "/portfolio-aurelie/static/js/main.9da06249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2222978a.css",
+    "static/js/main.9da06249.js"
+  ]
+}
